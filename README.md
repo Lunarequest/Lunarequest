@@ -2,6 +2,7 @@
 <h3 align="center">A passionate linux user</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=advaithm" alt="advaithm" /> </p>
+I user linux as my main opeating system. In my free time I work on a varity of projects including dockerizing a Darkweb website and irc. Currently I am working on self hosting a my blog on my personal hardware. I am always up for a challenge so feel free to reach out with any. 
 
 - 🌱 I’m currently learning **rust**
 
