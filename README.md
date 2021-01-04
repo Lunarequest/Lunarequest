@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://twitter.com/nullrequest1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nullrequest1" height="30" width="40" /></a>
 <a href="https://instagram.com/nullrequest_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nullrequest_" height="30" width="40" /></a>
-<a href="/https://nullrequest.com/index.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://nullrequest.com/index.xml" height="30" width="40" /></a>
+<a href="https://nullrequest.com/index.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://nullrequest.com/index.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
