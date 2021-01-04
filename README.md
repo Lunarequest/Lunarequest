@@ -18,6 +18,10 @@
 - ⚡ Fun fact **I am a furry**
 
 <!-- BLOG-POST-LIST:START -->
+- [Raspbian TV](https://nullrequest.com/post/rs_pi_tv/)
+- [Self hosting pros and cons](https://nullrequest.com/post/self_hosting_pros_and_cons/)
+- [Self hosting part 3](https://nullrequest.com/post/self_hosting_part3/)
+- [Self hosting part 2](https://nullrequest.com/post/self_hosting_part2/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
