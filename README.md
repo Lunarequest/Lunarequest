@@ -17,7 +17,6 @@
 
 - ⚡ Fun fact **I am a furry**
 
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
