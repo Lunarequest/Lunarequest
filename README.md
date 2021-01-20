@@ -36,7 +36,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=advaithm&show_icons=true&locale=en&layout=compact" alt="advaithm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=advaithm&show_icons=true&locale=en" alt="advaithm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=advaithm&show_icons=true&locale=en&theme=merko" alt="advaithm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=advaithm&" alt="advaithm" /></p>
 
