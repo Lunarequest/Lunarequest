@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I am a furry and genderfluid**
 
-- :transgender_flag: my pronouns are she/her
+- 🏳️‍⚧️ my pronouns are she/her
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Raspbian TV](https://nullrequest.com/post/rs_pi_tv/)
