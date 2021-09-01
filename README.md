@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Luna</h1>
-<h3 align="center">A passionate linux user</h3>
+<h3 align="center">A passionate Linux user</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=advaithm&label=Profile%20views&color=0e75b6&style=flat" alt="advaithm" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nullrequest1" target="blank"><img src="https://img.shields.io/twitter/follow/nullrequest1?logo=twitter&style=for-the-badge" alt="nullrequest1" /></a> </p>
 
-- 🔭 I’m currently working on **fixing the GitHub desktop flatpak**
+- 🔭 I’m currently working on **Fixing the GitHub desktop flatpak**
 
-- 🌱 I’m currently learning **rpm spec files and ostre**
+- 🌱 I’m currently learning **RPM spec files and OSTree**
 
 - 📝 I regulary write articles on [https://nullrequest.com](https://nullrequest.com)
 
