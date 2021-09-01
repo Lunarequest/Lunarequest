@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luna</h1>
+<h1 align="center">Hi 👋, I'm Luna :transflag:</h1>
 <h3 align="center">A passionate Linux user</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=advaithm&label=Profile%20views&color=0e75b6&style=flat" alt="advaithm" /> </p>
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **python,rust,hugo and docker**
 
-- ⚡ Fun fact **I am a furry**
+- ⚡ Fun fact **I am a furry and genderfluid**
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Raspbian TV](https://nullrequest.com/post/rs_pi_tv/)
