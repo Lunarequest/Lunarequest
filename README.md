@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luna 🏳‍⚧</h1>
+<h1 align="center">Hi 👋, I'm Luna :transgender_flag:</h1>
 <h3 align="center">A passionate Linux user</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=advaithm&label=Profile%20views&color=0e75b6&style=flat" alt="advaithm" /> </p>
