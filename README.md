@@ -33,17 +33,27 @@
 
 <h3 align="left">Some Of My Favorite Languages and Tools</h3>
 <b>Languages</b>
+
 1. Python
+   
 2. Rust
+   
 3. Typescript 
+   
 4. C
+   
 5. D
+   
 6. C++
 <b>Tools</b>
 1. Hugo
+   
 2. Cargo 
+   
 3. Podman
+   
 4. Docker
+   
 5. K8s
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lunarequest&show_icons=true&locale=en&layout=compact&theme=radical" alt="advaithm" /></p>
