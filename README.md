@@ -19,10 +19,10 @@
 - :transgender_flag: my pronouns are she/her
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Archlinux with secureboot on a nvidia machine](https://nullrequest.com/post/archlinux_secureboot_nvidia/)
 - [Nixops the future of deploying applications?](https://nullrequest.com/post/nixops_the_future_of_deploying_applications/)
 - [Installing NixOS on a Running Install of Arch Linux](https://nullrequest.com/post/installing_nixos_on_a_running_install/)
 - [Why you should use Neovim](https://nullrequest.com/post/neovim/)
-- [Flatpaking Github Desktop Pt2: GPG](https://nullrequest.com/post/flatpaking-github-desktop-pt2/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
