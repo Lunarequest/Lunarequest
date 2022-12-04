@@ -19,10 +19,10 @@
 - :transgender_flag: my pronouns are she/her
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Webserver Updates](https://nullrequest.com/post/webserver-updates/)
 - [Migrating to a custom blogging backend](https://nullrequest.com/post/migrating_to_a_custom_webserver/)
 - [Nixops to Deploy-rs](https://nullrequest.com/post/nixops-to-deploy-rs/)
 - [Archlinux with secureboot on a nvidia machine](https://nullrequest.com/post/archlinux_secureboot_nvidia/)
-- [Nixops the future of deploying applications?](https://nullrequest.com/post/nixops_the_future_of_deploying_applications/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
