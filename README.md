@@ -19,10 +19,10 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Webserver Updates](https://nullrequest.com/post/webserver-updates/)
-- [Migrating to a custom blogging backend](https://nullrequest.com/post/migrating_to_a_custom_webserver/)
-- [Nixops to Deploy-rs](https://nullrequest.com/post/nixops-to-deploy-rs/)
-- [Archlinux with secureboot on a nvidia machine](https://nullrequest.com/post/archlinux_secureboot_nvidia/)
+- [A look back at the webserver](https://nullrequest.com/posts/a-look-back-at-the-webserver)
+- [Webserver Updates](https://nullrequest.com/posts/webserver-updates)
+- [Migrating to a custom blogging backend](https://nullrequest.com/posts/migrating-to-a-custom-blogging-backend)
+- [Nixops to Deploy-rs](https://nullrequest.com/posts/nixops-to-deploy-rs)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
