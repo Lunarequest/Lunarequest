@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luna</h1>
 <h3 align="center">A passionate Linux user</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=advaithm&label=Profile%20views&color=0e75b6&style=flat" alt="advaithm" /> </p>
-
-![Follow Luna on mastodon](https://img.shields.io/mastodon/follow/109821809635195727?domain=https%3A%2F%2Fhachyderm.io%2F&style=social)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lunarequest&label=Profile%20views&color=0e75b6&style=flat" alt="lunarequest" /> </p>
 
 - 🔭 I’m currently working on **Fixing the GitHub desktop flatpak**
 
