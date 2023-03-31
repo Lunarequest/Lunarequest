@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://hachyderm.io/home" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8/icons/mastodon.svg" alt="nullrequest1" height="30" width="40" /></a>
+<a href="https://social.nullrequest.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8/icons/mastodon.svg" alt="nullrequest1" height="30" width="40" /></a>
 <a href="https://nullrequest.com/index.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8/icons/rss.svg" alt="https://nullrequest.com/index.xml" height="30" width="40" /></a>
 </p>
 
