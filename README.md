@@ -17,10 +17,10 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ultimate arch linux setup](https://nullrequest.com/posts/ultimate-arch-linux-setup)
+- [How to setup a darkweb IRC](https://nullrequest.com/posts/how-to-setup-a-darkweb-irc)
+- [How to setup Dockerised darkweb website](https://nullrequest.com/posts/how-to-setup-dockerised-darkweb-website)
 - [Debugging a crashed kernel on opensuse](https://nullrequest.com/posts/debugging-a-crashed-kernel-on-opensuse)
-- [Envisioning a future python](https://nullrequest.com/posts/envisioning-a-future-python)
-- [server update, A new name, comments via firefish and lightmode](https://nullrequest.com/posts/server-update-a-new-name-webmentions-and-lightmode)
-- [A look back at the webserver](https://nullrequest.com/posts/a-look-back-at-the-webserver)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
