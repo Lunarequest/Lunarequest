@@ -17,8 +17,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [The case against WebUsb](https://nullrequest.com/posts/Thecaseagainstwebusb)
-- [Why Wayland is the future.](https://nullrequest.com/posts/WhyWaylandisthefuture)
+- [The case against WebUsb](https://nullrequest.com/posts/thecaseagainstwebusb)
+- [Why Wayland is the future.](https://nullrequest.com/posts/whywaylandisthefuture)
 - [Debugging a crashed kernel on opensuse](https://nullrequest.com/posts/debugging-a-crashed-kernel-on-opensuse)
 - [Envisioning a future python](https://nullrequest.com/posts/envisioning-a-future-python)
 <!-- BLOG-POST-LIST:END -->
