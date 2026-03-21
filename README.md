@@ -17,10 +17,10 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Switching to harper-ls](https://nullrequest.com/posts/switchingtoharperls)
 - [Thinking long term; A weird story](https://nullrequest.com/posts/thinkinglongtermaweirdstory)
 - [The case against WebUsb](https://nullrequest.com/posts/thecaseagainstwebusb)
 - [Why Wayland is the future.](https://nullrequest.com/posts/whywaylandisthefuture)
-- [Debugging a crashed kernel on opensuse](https://nullrequest.com/posts/debugging-a-crashed-kernel-on-opensuse)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
