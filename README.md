@@ -29,10 +29,5 @@
 <a href="https://nullrequest.com/index.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8/icons/rss.svg" alt="https://nullrequest.com/index.xml" height="30" width="40" /></a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lunarequest&show_icons=true&locale=en&layout=compact&theme=radical" alt="Lunarequest" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lunarequest&show_icons=true&locale=en&theme=radical" alt="Lunarequest" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lunarequest&theme=radical" alt="Lunarequest" /></p>
 
