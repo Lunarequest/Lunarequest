@@ -17,10 +17,10 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building WitchSky for android from source](https://nullrequest.com/posts/buildingwitchskyforandroidfromsource)
 - [Switching to harper-ls](https://nullrequest.com/posts/switchingtoharperls)
 - [Thinking long term; A weird story](https://nullrequest.com/posts/thinkinglongtermaweirdstory)
 - [The case against WebUsb](https://nullrequest.com/posts/thecaseagainstwebusb)
-- [Why Wayland is the future.](https://nullrequest.com/posts/whywaylandisthefuture)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
